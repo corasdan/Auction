@@ -1,0 +1,26 @@
+.Paper {
+    /* padding-left:18px; */
+    padding-bottom: 30px;
+}
+
+.Container{
+    margin:6em;
+    padding:20px;
+}
+
+.Main{
+    margin:7em;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.GridItem{
+    
+    padding-left: 40px;
+    padding: 20px;
+    margin-left: 6em;
+}
+
+.Image {
+    height:300px;
+}

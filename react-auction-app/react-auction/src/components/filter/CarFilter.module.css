@@ -1,0 +1,15 @@
+.Container {
+    /* border-width: 1px;
+    border-style: solid; */
+    padding:10px;
+}
+
+.Text {
+    align-content: center;
+    justify-content: center;
+    padding:25px;
+}
+
+.Button {
+    margin-top: 9px;
+}

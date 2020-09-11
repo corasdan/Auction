@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f5f5f5;
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.MuiGrid-root CarFilter_Button__6ZulQ MuiGrid-item MuiGrid-grid-md-1{
+  margin-top: 9px;
 }
